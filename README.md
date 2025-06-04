@@ -98,10 +98,6 @@ streamlit_app/
    ```
 2. Access the application in your web browser at the provided URL (typically http://localhost:8501)
 
-### Default Admin Credentials
-- Username: admin
-- Password: admin123
-
 ## Usage Guide
 
 ### For Users
